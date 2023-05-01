@@ -1,0 +1,21 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{
+    overflow-x: hidden;
+
+
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.carousel-inner img{
+    width: auto;
+    height: auto;
+}
+.card-body {
+    min-width: 50%;
+    max-height: 200px;
+}
+.c {
+    color: red;
+}
