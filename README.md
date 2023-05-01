@@ -4,7 +4,7 @@ This is a Personal web page which is a  World Wide Web page . I've used HTML, CS
 <p>
 <img align="ceter" src="https://github.com/vishal-affinity/Personal-responsive-Website/blob/main/WhatsApp%20Image%202023-05-01%20at%2011.53.39.jpg" height="600"/>
 <br>
-
+<hr>
 <img align="left" src="https://github.com/vishal-affinity/Personal-responsive-Website/blob/main/WhatsApp%20Image%202023-05-01%20at%2011.53.38.jpg" height="600"/>
 
 </p>
